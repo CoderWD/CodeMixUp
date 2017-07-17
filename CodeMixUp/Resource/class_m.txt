@@ -1,0 +1,19 @@
+//
+//  ClassName.m
+//  CodeMixUp
+//
+//  Created by CreatePeson on CreateTime.
+//  Copyright © Year年 章鱼彩票. All rights reserved.
+//
+
+#import "ClassName.h"
+
+@interface ClassName ()
+
+@end
+
+@implementation ClassName
+
+Function
+
+@end

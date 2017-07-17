@@ -1,0 +1,19 @@
+
+//
+//  ClassName.h
+//  CodeMixUp
+//
+//  Created by CreatePeson on CreateTime.
+//  Copyright © Year年 章鱼彩票. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ClassName : ExtensionClass
+
+Parameter
+
+Function
+
+@end
+
